@@ -1,5 +1,5 @@
 # IvoBot
 A Bot for MPP im working on
 
-#CHANGELOG
+#CHANGELOG: 
 added the actual bot code
